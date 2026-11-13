@@ -20,7 +20,7 @@
 
 ## Схема бази даних
 
-![Схема бази даних](Schema/task1_BDscheme.png)
+![Схема бази даних](schema/task1_BDscheme.png)
 
 Таблиці по групах:
 
